@@ -1,0 +1,2 @@
+# Prevent conversion of line endings on checkout
+* -text
