@@ -1,2 +1,2 @@
-# Prevent conversion of line endings on checkout
-* text=false
+# Prevent normalization of line endings
+* -text
